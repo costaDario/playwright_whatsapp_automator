@@ -78,7 +78,7 @@ Ensure that your Google Chrome profile is already logged into WhatsApp Web. If n
 Run the script from the command line:
 
 ```bash
-python playwright_whatsapp_automator.py
+python whatsapp_playwright_automator.py
 ```
 
 ### Workflow:
